@@ -1,1 +1,1 @@
-# Mental-Maths-Challenge
+# Smaths!
